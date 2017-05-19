@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://api.hdg123.cn/iosdownload/fhqy/icon.png</string>
+                   <string>https://api.hdg123.cn/iosdownload/fhqy/images/ztsg_57.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://api.hdg123.cc/iosdownload/fhqy/icon.png</string>
+                   <string>https://api.hdg123.cc/iosdownload/fhqy/images/ztsg_512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
